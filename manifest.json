@@ -1,0 +1,35 @@
+{
+  "name": "قانون اساسی جمهوری اسلامی ایران",
+  "short_name": "قانون اساسی",
+  "description": "متن کامل قانون اساسی جمهوری اسلامی ایران، شامل ۱۴ فصل و ۱۷۷ اصل، با قابلیت جستجو و مرور فصل به فصل.",
+  "start_url": "./index.html",
+  "id": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F3EC",
+  "theme_color": "#1B2F27",
+  "dir": "rtl",
+  "lang": "fa",
+  "categories": ["reference", "education", "government"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
